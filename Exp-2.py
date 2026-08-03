@@ -1,5 +1,5 @@
 #Experiment 2
-#
+#Advanced Class Concepts – Decorators and Magic methods
 
 def bold_text(func):
     def wrapper(report):
